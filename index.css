@@ -1,0 +1,21 @@
+.bloco01{
+    background-color: orange;
+    padding: 15px;
+    color: white;
+    margin 0;
+    }
+
+.bloco02{
+    font-family: 'Dancing Script', cursive;
+}
+
+
+.imagem img{ 
+    width: 300px;
+   border: 3px solid black;
+    
+    
+}
+.textooo{
+    color: blueviolet;
+}
